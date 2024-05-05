@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+*.log
+
+config.json
+secrets.json
+credentials.json
+.env
